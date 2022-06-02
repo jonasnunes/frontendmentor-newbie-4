@@ -20,6 +20,7 @@ html, body {
 body {
   font-size: 1.6rem;
   font-family: "Red Hat Display", sans-serif;
+  background-image: linear-gradient(to bottom, hsl(225deg, 100%, 94%), hsl(225deg, 100%, 98%));
 }
 
 /*# sourceMappingURL=index.css.map */
